@@ -4,7 +4,7 @@ building things from scratch, breaking them, and making them better.
 
 ### out of the void
 
-* **Shortly** — a URL shortener built with Node.js, Express, EJS and MongoDB.
+* **[Shortly](https://shortly-url-shortener-msxt.onrender.com)** — a URL shortener built with Node.js, Express, EJS and MongoDB. [live demo ↗](https://shortly-url-shortener-msxt.onrender.com)
 * more projects coming soon.
 
 ### stack
@@ -35,11 +35,12 @@ building things from scratch, breaking them, and making them better.
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
-
 
 ### reach me
 
 * [github](https://github.com/devorebash)
 * [discord](https://discord.com/users/1369029870251937992)
+
 
